@@ -1,28 +1,28 @@
 
-📌 Features
-✅ User Authentication – Signup, Login, Forgot Password
-✅ Product Catalog – Fish, Accessories, Food, Medicine, Tanks
-✅ Admin Dashboard – Manage users, products & inventory
-✅ Guest Access – Browse products without logging in
-✅ Shopping & Payments – Buy items and make payments
-✅ Interactive UI – Built with Swing & AWT
-✅ Secure Data Handling – User information management
+# 📌 Features
+✅ User Authentication – Signup, Login, Forgot Password <br>
+✅ Product Catalog – Fish, Accessories, Food, Medicine, Tanks <br>
+✅ Admin Dashboard – Manage users, products & inventory <br> 
+✅ Guest Access – Browse products without logging in <br>
+✅ Shopping & Payments – Buy items and make payments <br>
+✅ Interactive UI – Built with Swing & AWT <br>
+✅ Secure Data Handling – User information management 
 
-📝 Project Functionalities
-🔹 User Features
-Register, login, and reset passwords.
-Browse products (fish, tanks, accessories, food, medicines).
-Purchase and pay online.
-Manage personal details.
-🔹 Admin Features
-Add, update, and remove products.
-Manage users and orders.
-View purchase history.
-🔹 Guest Features
-Browse available products.
-View pricing and details.
+# 📝 Project Functionalities
+🔹 User Features <br>
+Register, login, and reset passwords. <br>
+Browse products (fish, tanks, accessories, food, medicines). <br>
+Purchase and pay online. <br>
+Manage personal details. <br>
+🔹 Admin Features <br>
+Add, update, and remove products. <br>
+Manage users and orders. <br>
+View purchase history. <br>
+🔹 Guest Features <br>
+Browse available products. <br>
+View pricing and details. <br>
 
-Supervisor 
-Md. Nazmul Hossian 
-Asst. Professor, Dept. of CSE
+# Supervisor 
+Md. Nazmul Hossian <br>
+Asst. Professor, Dept. of CSE <br>
 American International University- Bangladesh
