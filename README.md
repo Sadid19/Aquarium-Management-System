@@ -1,5 +1,3 @@
-🐠 Aquarium Management System
-A Java-based Aquarium Management System with user authentication, product management, and a user-friendly GUI. This project allows users to browse and purchase aquatic products while administrators manage inventory.
 
 📌 Features
 ✅ User Authentication – Signup, Login, Forgot Password
